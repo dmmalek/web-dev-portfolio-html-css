@@ -140,3 +140,24 @@ main {
   letter-spacing: 0%;
   text-align: center;
 }
+/* What I do */
+.skills {
+  text-align: center;
+}
+.skills-header {
+  padding: 130px;
+}
+.skills-header-title {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 50px;
+}
+.skills-header-description {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.skills-card {
+  text-align: left;
+  gap: 50px;
+}
