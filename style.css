@@ -102,6 +102,10 @@ a {
   color: rgba(253, 110, 10, 1);
   border: 1px solid rgba(253, 110, 10, 1);
 }
+fa-solid {
+  font-size: 18px;
+  margin-right: 5px;
+}
 /* About Me Section   */
 main {
   padding: 100px 130px;
@@ -222,6 +226,10 @@ hr {
 }
 .resume-card {
   margin-bottom: 20px;
+}
+.download-btn {
+  text-align: center;
+  margin-top: 20px;
 }
 /* footer  */
 .footer {
